@@ -1,0 +1,12 @@
+June,23 
+July,16 
+January,22
+December,65
+February,"65"
+March,50
+April,%
+May,45
+August,56
+September,7#
+October,677
+November,55

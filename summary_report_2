@@ -1,0 +1,6 @@
+Total Rainfall: 1210.0 mm
+Average Rainfall: 100.83333333333333 mm
+Highest Rainfall: 677.0 mm in October
+Lowest Rainfall: 16.0 mm in July
+Drought Months (below 25mm): ['June', 'July', 'January']
+Season Comparison: ['January', 'December', 'February'] was wetter than ['June', 'July', 'August'].
